@@ -38,7 +38,7 @@ contract TodoList {
   }
 
   constructor() public {
-        createTask("Fede Puto");
+        createTask("First Task");
       }
 
     
